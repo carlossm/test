@@ -1,0 +1,7 @@
+---
+wordpressUsername: "pepe"
+wordpressBlogName: 2
+persistence:
+  size: "juancho"
+ingress:
+  enabled: "pepe"
