@@ -1,7 +1,8 @@
 extraDeploy:
-  - apiVersion: v1
-    kind: ConfigMap
-    metadata:
-      name: airflow-vib-extra
-    - data: {}
+  - |
+      apiVersion: v1
+      kind: ConfigMap
+      metadata:
+        name: airflow-vib-extra
+      data: {}
         placeholder: "for-template-coverage"
